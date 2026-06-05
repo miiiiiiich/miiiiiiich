@@ -24,6 +24,10 @@
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com/?user=miiiiiiich&background=0d1117&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" alt="contribution streak" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miiiiiiich&theme=github-compact&bg_color=0d1117&color=8b949e&line=a78bfa&point=39d353&area=true&hide_border=true" alt="activity graph" width="100%" />
 </div>
 
