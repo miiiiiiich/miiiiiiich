@@ -20,6 +20,16 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: cache streak card
+        run: |
+          URL="https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&background=0d1117&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681"
+          for i in 1 2 3 4 5; do
+            curl -sf "$URL" -o dist/streak.svg && grep -q "Total Contributions" dist/streak.svg && break
+            sleep 20
+          done
+          grep -q "Total Contributions" dist/streak.svg 2>/dev/null || \
+            curl -sf "https://raw.githubusercontent.com/${{ github.repository }}/output/streak.svg" -o dist/streak.svg || true
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output

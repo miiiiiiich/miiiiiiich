@@ -11,8 +11,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion API" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Arc-1C1C1E?style=for-the-badge&logo=arc&logoColor=white" alt="Arc" />
+  <img src="https://img.shields.io/badge/MacBook-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook" />
 </p>
 
 <div align="center">
@@ -24,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=miiiiiiich&background=0d1117&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" alt="contribution streak" />
+  <img src="https://raw.githubusercontent.com/miiiiiiich/miiiiiiich/output/streak.svg" alt="contribution streak" />
 </div>
 
 <div align="center">
