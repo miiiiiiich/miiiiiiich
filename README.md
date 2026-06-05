@@ -24,10 +24,6 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/miiiiiiich/miiiiiiich/output/profile-night-rainbow.svg" alt="3D contribution calendar" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=miiiiiiich&theme=github-compact&bg_color=0d1117&color=8b949e&line=a78bfa&point=39d353&area=true&hide_border=true" alt="activity graph" width="100%" />
 </div>
 
