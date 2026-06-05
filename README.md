@@ -5,7 +5,7 @@
 <p align="center">Hi there 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Kept+you+waiting%2C+huh%3F;Coding+has+changed.+My+obsession+hasn%27t+%E2%80%94+clean+code%2C+polished+UX.;Tactical+Engineering+Action+%E2%80%94+tuned+harness%2C+zero+loose+ends.;You%27re+pretty+good.+Let%27s+build+something+together." alt="Kept you waiting, huh?" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=720&lines=Kept+you+waiting%2C+huh%3F;Coding+has+changed.+My+obsession+hasn%27t%3A+clean+code%2C+polished+UX.;Tactical+Engineering+Action%3A+tuned+harness%2C+zero+loose+ends.;You%27re+pretty+good.+Let%27s+build+something+together." alt="Kept you waiting, huh?" />
 </p>
 
 <p align="center">
